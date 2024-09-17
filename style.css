@@ -69,11 +69,11 @@
     font-weight: 700;
     font-style: italic;
   }
-  body {
+.body {
     background-color: rgb(255, 164, 52);
     font-family: Bai Jamjuree;
 }
-footer {
+.footer {
   background-color: black;
   color: white;
   position: fixed;
@@ -81,7 +81,7 @@ footer {
   width: 100%;
   height: 2rem;
 }
-footer p {
+.footer p {
   text-align: center;
   font-size: 0.6rem;
   margin-top: 0.5rem;
