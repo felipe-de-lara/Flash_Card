@@ -8,6 +8,13 @@
     font-family: "Bai Jamjuree", sans-serif;
     font-weight: 300;
     font-style: normal;
+    <!-- código omitido -->
+
+<main>
+    <section id="container">
+
+<!-- código omitido -->
+
   }
   
   .bai-jamjuree-regular {
@@ -86,3 +93,25 @@ footer p {
   font-size: 0.6rem;
   margin-top: 0.5rem;
 }
+
+/* código omitido */
+
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+    background-color: aqua;
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+}
+
+.cartao__conteudo {
+    text-align: center;
+    background-color: aquamarine;
+
+}
+
+/* código omitido */
