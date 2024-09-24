@@ -129,8 +129,10 @@ footer p {
 }
 
 body {
-  background: url(img/fundo.webp)
+  background: url('img/bg-desktop.webp');
   font-family: Bai Jamjuree;
+}
+
 }
 
 .cartao__conteudo__pergunta p {
