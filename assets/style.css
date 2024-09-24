@@ -81,10 +81,6 @@
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 
-body {
-    background-color: rgb(255, 164, 52);
-    font-family: Bai Jamjuree;
-}
 
 footer {
   background-color: black;
