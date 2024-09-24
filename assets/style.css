@@ -76,6 +76,11 @@
     font-weight: 700;
     font-style: italic;
   }
+  :root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+    
 body {
     background-color: rgb(255, 164, 52);
     font-family: Bai Jamjuree;
