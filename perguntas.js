@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'TIMAO',
+    'Qual e o melhor time do Brasil',
+    'CORINTHIANS'
 )
 
 
